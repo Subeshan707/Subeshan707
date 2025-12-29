@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development, AI-powered applications, and innovative student projects<br>👯 I’m looking to collaborate on Open-source projects, web apps, and AI-driven solutions<br>🤝 I’m looking for help with Full-stack development, API integrations, and deployment<br>🌱 I’m currently learning Flutter, SEO, and advanced database systems<br>💬 Ask me about Web development, AI chatbots, databases, and creative project ideas<br>⚡ Fun fact I believe coffee + code = infinite creativity ☕💻
+🔭 I’m currently working on Web Development, AI-powered applications, Quantum Computing and innovative student projects<br>👯 I’m looking to collaborate on Open-source projects, web apps, and AI-driven solutions<br>🤝 I’m looking for help with Full-stack development, API integrations, and deployment<br>🌱 I’m currently learning Flutter, SEO, and advanced database systems<br>💬 Ask me about Web development, AI chatbots, databases, and creative project ideas<br>⚡ Fun fact I believe coffee + code = infinite creativity ☕💻
 
 ![Profile views](https://komarev.com/ghpvc/?username=Subeshan007&color=blue) 
 
