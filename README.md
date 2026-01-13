@@ -15,11 +15,11 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subeshan707&show_icons=true&theme=tokyonight&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Subeshan707&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
   <img src="https://streak-stats.demolab.com?user=Subeshan707&theme=tokyonight&hide_border=true" height="170"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subeshan707&layout=compact&theme=tokyonight&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Subeshan707&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </div>
 
 ---
@@ -29,11 +29,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
----
 
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Subeshan707&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</p>
 
 
