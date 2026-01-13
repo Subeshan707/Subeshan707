@@ -31,20 +31,7 @@
 
 ---
 
-### 🔝 Top Contributed Repo
+### � Contribution Graph
 <p align="center">
-  <a href="https://github.com/Subeshan707?tab=repositories&sort=stargazers">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Subeshan707&repo=Subeshan707&theme=tokyonight&hide_border=true"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subeshan707&theme=tokyo-night&hide_border=true"/>
 </p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Subeshan707&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
-
-
-
