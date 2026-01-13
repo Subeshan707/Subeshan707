@@ -19,7 +19,7 @@
 
   <img src="https://streak-stats.demolab.com?user=Subeshan707&theme=tokyonight&hide_border=true" height="170"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subeshan707&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subeshan707&layout=compact&theme=tokyonight&cache_seconds=1800" height="170"/>
 </div>
 
 ---
@@ -33,7 +33,7 @@
 
 ### 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://contributor-stats.vercel.app/api?username=Subeshan707"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Subeshan707&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 </p>
 
 
