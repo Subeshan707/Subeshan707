@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Web Development, AI-powered applications, Quantum Computing and innovative student projects<br>👯 I’m looking to collaborate on Open-source projects, web apps, and AI-driven solutions<br>🤝 I’m looking for help with Full-stack development, API integrations, and deployment<br>🌱 I’m currently learning Flutter, SEO, and advanced database systems<br>💬 Ask me about Web development, AI chatbots, databases, and creative project ideas<br>⚡ Fun fact I believe coffee + code = infinite creativity ☕💻
 
-![Profile views](https://komarev.com/ghpvc/?username=Subeshan707&color=blue) 
+![Profile views](https://komarev.com/ghpvc/?username=Subeshan007&color=blue) 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subeshan-cobalakirouchenin-139a63298/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subeshan2005@gmail.com)[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=white)](https://leetcode.com/u/Subeshan/)
@@ -15,20 +15,35 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Subeshan707&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-  <img src="https://streak-stats.demolab.com?user=Subeshan707&theme=tokyonight&hide_border=true" height="170"/>
-
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Subeshan707&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Subeshan007&theme=neon&hide_border=true&include_all_commits=true&count_private=false" height="170"/>
+      </td>
+      <td>
+        <img src="https://nirzak-streak-stats.vercel.app/?user=Subeshan007&theme=neon&hide_border=true" height="170"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subeshan007&theme=neon&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="170"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### ✍️ Dev Quote
+### ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
+---
 
+### 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Subeshan007&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+</p>
 
 
